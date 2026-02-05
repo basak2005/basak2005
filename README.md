@@ -9,4 +9,9 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=basak2005&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=basak2005&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=basak2005&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+[![trophy](https://github-profile-trophy.vercel.app/?username=basak2005)](https://github.com/ryo-ma/github-profile-trophy)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=basak2005&limit=5&theme=nightowl&combine_all_yearly_contributions=true)
